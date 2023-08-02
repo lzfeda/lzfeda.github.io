@@ -1,5 +1,6 @@
 ## Biography
-I am an associate professor in the School of Mathematics and Statistics at Fuzhou University associated with the Center for Discrete Mathematics and Theoretical Computer Science. In 2022, I received the Ph.D. degree in Computer Science from the Fuzhou University, advised by Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31133a352198/page.htm). My research interests include optimation algorithms and VLSI physical design automation.
+I am an associate professor in the School of Mathematics and Statistics at Fuzhou University associated with the Center for Discrete Mathematics and Theoretical Computer Science. In 2022, I received the Ph.D. degree in Computer Science from Fuzhou University, advised by Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31133a352198/page.htm). My research interests include optimation algorithms and VLSI physical design automation.
+
 
 ## Publications
 
