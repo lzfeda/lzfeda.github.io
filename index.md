@@ -10,7 +10,7 @@ I am an associate professor in the School of Mathematics and Statistics at Fuzho
 
 [J3] Jianli Chen, **Zhifeng Lin**, Yanyue Xie, Wenxing Zhu, and Yao-Wen Chang, [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**, 2022.
 
-[J2] Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen, [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**, 2022.
+[J2] **Zhifeng Lin**, Yanyue Xie, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen, [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**, 2022.
 
 [c4] Peng Zou, **Zhifeng Lin**, Chenyue Ma, Jun Yu and Jianli Chen, [Late Breaking Results: Incremental 3D Global Routing Considering Cell Movement](https://ieeexplore.ieee.org/document/9586277), ACM/IEEE Design Automation Conference **(DAC)**, San Francisco, Dec. 5-9, 2021. 
 
@@ -21,7 +21,7 @@ I am an associate professor in the School of Mathematics and Statistics at Fuzho
 
 [c2] Peng Zou, **Zhifeng Lin**, Xiao Shi, Yingjie Wu, Jianli Chen, Jun Yu, and Yao-Wen Chang, [Time-Division Multiplexing Based System-Level FPGA Routing for Logic Verification](https://ieeexplore.ieee.org/document/9218569), ACM/IEEE Design Automation Conference **(DAC)**, San Francisco, July 19-23, 2020. 
 
-[C1] Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen, [Late Breaking Results: An Analytical Timing-Driven Placer for Heterogeneous FPGAs](https://ieeexplore.ieee.org/document/9218699/), ACM/IEEE Design Automation Conference **(DAC)**, San Francisco, July 19-23, 2020. 
+[C1] **Zhifeng Lin**, Yanyue Xie, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen, [Late Breaking Results: An Analytical Timing-Driven Placer for Heterogeneous FPGAs](https://ieeexplore.ieee.org/document/9218699/), ACM/IEEE Design Automation Conference **(DAC)**, San Francisco, July 19-23, 2020. 
 
 
 ## Awards
